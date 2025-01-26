@@ -7,9 +7,9 @@ Click the following image to view this tutorial on Youtube.
 [![Youtube video link](https://i.ytimg.com/vi/bBKXGIBTMmk/hqdefault.jpg)](//youtu.be/bBKXGIBTMmk "Youtube Video")
 
 ## Features
-No machine learning.
-No deep learning
-No prefined mask
-No prefined ROI
-Classical image processing
+- No machine learning.
+- No deep learning
+- No prefined mask
+- No prefined ROI
+- Classical image processing
 
