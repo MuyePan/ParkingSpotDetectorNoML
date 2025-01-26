@@ -4,7 +4,7 @@ It is highly recommended to watch video tutorial as there is additional content 
 
 Click the following image to view this tutorial on Youtube.
 
-[![Youtube video link](https://i.ytimg.com/vi/bBKXGIBTMmk/hqdefault.jpg)](//youtu.be/bBKXGIBTMmk "Youtube Video")
+[![Youtube video link](https://i.ytimg.com/vi/ktJtylXkBUM/hqdefault.jpg)](//youtu.be/ktJtylXkBUM "Youtube Video")
 
 ## Features
 - No machine learning.
