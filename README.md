@@ -1,12 +1,11 @@
 # Parking Spot Detector and Classifier (No Machine Learning)
-This repository provides a lightweight and efficient solution for detecting and classifying parking spots using classical image processing methods. 
-Unlike machine learning or deep learning approaches, this project relies on traditional computer vision techniques
+This project uses traditional computer vision techniques to detect parking spots in images or video feeds. 
+By avoiding machine learning, it ensures minimal dependencies and faster processing times, 
+making it suitable for resource-constrained environments or applications where simplicity is key.
 
 It is highly recommended to watch video tutorial as there is additional content in the video tutorial.
 
 Click the following image to view this tutorial on Youtube.
 
 [![Youtube video link](https://i.ytimg.com/vi/bBKXGIBTMmk/hqdefault.jpg)](//youtu.be/bBKXGIBTMmk "Youtube Video")
-
-
 
